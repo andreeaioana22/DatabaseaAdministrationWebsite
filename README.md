@@ -1,2 +1,2 @@
-# DatabaseaAdministrationWebsite
-PHP , Javascript, HTML, CSS, BOOTSTRAP
+# Simple apps (beginner level)
+PHP, Javascript, HTML, CSS, BOOTSTRAP
